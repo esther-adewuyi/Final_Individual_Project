@@ -1,1 +1,1 @@
-web: gunicorn boston_universities:server
+web: gunicorn Esther_I_Adewuyi_Individual Project.:server
