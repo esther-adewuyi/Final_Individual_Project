@@ -8,11 +8,7 @@ Created on Fri Apr 30 20:48:18 2021
 
 import requests
 
-import json
-
 import pandas as pd
-
-import matplotlib.pyplot as plt
 
 import dash
 
